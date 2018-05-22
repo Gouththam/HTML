@@ -1,0 +1,28 @@
+﻿Flowchart
+
+flowchart is a type of diagram that represents an algorithm, work flow or process.
+
+
+The basic flowchart symbols are:
+
+
+Examples of flowcharts in programming
+      Draw a flowchart to add two numbers entered by user.
+
+
+
+
+
+Advantages
+It is easy method of communication to represent program.
+It serves as a guide for program coding.
+It is easier to understand than program and algorithm.
+It is program independent so applicable for all types of programming languages.
+It represent all the components of program like input, process, logic and output which makes easy to develop the program.
+
+Disadvantages
+It cannot replace all types of logic used on the computer program.
+It takes long time to represent all module of computer program.
+It is not suitable and be complex for big problem.
+
+
